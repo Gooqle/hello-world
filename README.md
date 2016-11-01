@@ -1,2 +1,4 @@
 # hello-world
-First hello world program with GitHub
+Hello world!
+Ha see what I did there lool
+Just trying this out. Catch you later
